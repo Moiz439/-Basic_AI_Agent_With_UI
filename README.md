@@ -5,5 +5,7 @@ for Run this project you want to install some softwares and dependencyes are as 
 3) install ollama models like (mistral)
 4) install langChain_Ollama dependency in python
 5) install langChain_Community dependency in python
-6) install streamlit for UI in python 
-7) and run this file in python like basic_ai_agent_with_ui.py
+6) install streamlit for UI in python
+7) python -m venv venv -( Create Virtual Envirnement for this open the file path and paste it).
+8) venv\Scripts\activate -( open file path in cmd and paste this virtual envirement will activated).
+9) and run this file in python like basic_ai_agent_with_ui.py
